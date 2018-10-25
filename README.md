@@ -14,4 +14,6 @@ You can modify the amapj version inside the dockerfile.
 	
 Here is the result :
 
+* open a browser on http://localhost:8080/amapj
+
 ![navigator](https://raw.githubusercontent.com/20100/amapj-docker/master/github/navigator.png)
